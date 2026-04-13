@@ -1,6 +1,6 @@
 # Hi, I'm Aayushi Agarwal
 
-Software Engineer at Synopsys focused on backend systems, platform engineering, and performance optimization.
+Software Engineer focused on backend systems, platform engineering, and performance optimization.
 
 I build scalable services, developer tooling, and high-performance web applications. My recent work includes improving Core Web Vitals through SSR migration, designing micro-frontend platforms for multi-team delivery, optimizing Python services with caching and batching, and building observability for faster incident response.
 
